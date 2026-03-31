@@ -129,7 +129,7 @@ Job_Q-A/
 | 이름 | 역할 |
 |------|------|
 | 김수민 | iOS |
-| 김우진 | iOS |
+| 김우진 | Backend |
 | 김준석 | Backend |
 | 김태영 | Backend |
 
