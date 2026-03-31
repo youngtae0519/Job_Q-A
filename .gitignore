@@ -2,3 +2,10 @@
 .env.backend
 **/.DS_Store
 **/__pycache__/
+
+# CocoaPods
+ios/job_qa/Pods/
+
+# Xcode user data
+*.xcuserstate
+**/*.xcuserdata/
